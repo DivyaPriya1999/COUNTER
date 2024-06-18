@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(219, 253, 168);
+
+}
+
+div{
+    background:linear-gradient(rgb(233, 147, 138),whitesmoke);
+    display: block;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 2%;
+    border: solid salmon;
+    border-radius: 10px;
+    border-width: 10px;
+    
+
+}
+div h1 {
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 60px;
+    text-align: center;
+    margin-top: 25px;
+}
+#buttoninc{
+    font-size: 20px;
+    font-weight: 300;
+    background-color: blue;
+    border-radius: 10px;
+    color: whitesmoke;
+    border: outset;
+    cursor: pointer;
+
+}
+#buttonre{
+    font-size: 20px;
+    font-weight: 300;
+    background-color: rgb(199, 221, 98);
+    border-radius: 10px;
+    color:whitesmoke;
+    border: outset;
+    cursor: pointer;
+}
+#buttondec{
+    font-size: 20px;
+    font-weight: 300;
+    background-color: tomato;
+    border-radius: 10px;
+    color:whitesmoke;
+    border: outset;
+    cursor: pointer;
+}
+#head{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-decoration: underline rgb(224, 188, 88);
+    margin-left: 2%;
+}
